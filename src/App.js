@@ -7,16 +7,16 @@ import Album from './components/Album';
 
 
 function App() {
-    const myName = "Lê DUY sƠN";
+    const myName = "Lê DUY sƠNdsdsa";
     const myAge = 20;
 
     const preson = {
-        name: "Lê Duy Sơn",
+        name: "Lê Duy Sơnádsa",
         age: 20
 
     }
 
-    return (
+    return (  
 
     <div className = "App">
     <div>
